@@ -1,4 +1,4 @@
-![Banner de Biglex Developer](./banner.jpg)
+![Banner de Biglex Developer](./banner.webp)
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <link rel>
@@ -72,7 +72,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
     </tr>
     <tr>
         <td><b>Sistemas Operativos:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,debian,arch,manjaro"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,debian,arch"/></td>
     </tr>
     <tr>
         <td><b>Lenguaje de diseño:</b></td>
@@ -80,7 +80,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
     </tr>
     <tr>
         <td><b>Software creativo:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=neovim,blender,obsstudio,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=neovim,blender"/></td>
     </tr>
 </table>
 
