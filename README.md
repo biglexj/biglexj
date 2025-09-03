@@ -1,8 +1,8 @@
 ![Banner de Biglex Developer](assets/banner.webp)
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel>
-### 👋 Hola mundo, soy Biglex J  
+
+👋 Hola mundo, soy Biglex J
 
 Creador de contenido, desarrollador web y explorador del lado creativo de la tecnología.  
 Me encanta transformar ideas en proyectos reales, desde páginas web hasta aplicaciones, pasando por diseños y experimentos con IA.  
@@ -17,8 +17,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 ---
 
 - 🔭 Actualmente trabajando en **mi portafolio web y proyectos personales**.  
-- 🌱 Aprendiendo y mejorando en **JavaScript, Python, Flutter y DevOps ligero (Pocketbase, Netlify, etc.)**.  
-- 💬 Pregúntame sobre **HTML, CSS, JS, Python, Linux, GitHub Pages, Netlify, Flutter, Blender, Affinity, OBS, DaVinci Resolve, diseño de interfaces y más.**  
+- 🌱 Aprendiendo y mejorando en **JavaScript, Python, C# y DevOps ligero (Pocketbase, Netlify, etc.)**.  
 - ⚡ Fun fact: Programar escuchando MIKU es lo máximo 🎶.  
 
 ---
