@@ -10,7 +10,6 @@ Me encanta transformar ideas en proyectos reales, desde páginas web hasta aplic
 ✨ Mis proyectos principales:  
 - **Proyecto Prisma** → Mi VTuber con integración interactiva.  
 - **Proyecto Aurora** → Mi sitio web oficial.  
-- **Proyecto Lienzo** → Galería móvil creada con Flutter.  
 
 Con experiencia en frontend y backend, mezclo código, arte y creatividad como si fueran ingredientes de un ramen 🍜.  
 Mi visión es **crear tecnología accesible, estética y con personalidad**.  
@@ -20,7 +19,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 - 🔭 Actualmente trabajando en **mi portafolio web y proyectos personales**.  
 - 🌱 Aprendiendo y mejorando en **JavaScript, Python, Flutter y DevOps ligero (Pocketbase, Netlify, etc.)**.  
 - 💬 Pregúntame sobre **HTML, CSS, JS, Python, Linux, GitHub Pages, Netlify, Flutter, Blender, Affinity, OBS, DaVinci Resolve, diseño de interfaces y más.**  
-- ⚡ Fun fact:Programar escuchando JPop es lo máximo 🎶.  
+- ⚡ Fun fact:Programar escuchando MIKU es lo máximo 🎶.  
 
 ---
 
@@ -57,15 +56,15 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 <table>
     <tr>
         <td><b>Frontend:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,flutter,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,flutter,dotnet"/></td>
     </tr>
     <tr>
         <td><b>Backend:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,python,php,laravel,pocketbase"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,python,cs,supabase,pocketbase"/></td>
     </tr>
     <tr>
         <td><b>Bases de datos:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
     </tr>
     <tr>
         <td><b>DevOps / Hosting:</b></td>
@@ -73,11 +72,15 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
     </tr>
     <tr>
         <td><b>Sistemas Operativos:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,debian,arch,manjaro"/></td>
+    </tr>
+    <tr>
+        <td><b>Lenguaje de diseño:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=materialui"/></td>
     </tr>
     <tr>
         <td><b>Software creativo:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=blender,obsstudio,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=neovim,blender,obsstudio,"/></td>
     </tr>
 </table>
 
