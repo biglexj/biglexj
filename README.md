@@ -19,7 +19,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 - 🔭 Actualmente trabajando en **mi portafolio web y proyectos personales**.  
 - 🌱 Aprendiendo y mejorando en **JavaScript, Python, Flutter y DevOps ligero (Pocketbase, Netlify, etc.)**.  
 - 💬 Pregúntame sobre **HTML, CSS, JS, Python, Linux, GitHub Pages, Netlify, Flutter, Blender, Affinity, OBS, DaVinci Resolve, diseño de interfaces y más.**  
-- ⚡ Fun fact:Programar escuchando MIKU es lo máximo 🎶.  
+- ⚡ Fun fact: Programar escuchando MIKU es lo máximo 🎶.  
 
 ---
 
