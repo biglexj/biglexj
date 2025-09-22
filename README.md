@@ -24,12 +24,13 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 
 <h3 align="left">🌐 Conecta conmigo:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@biglexj" target="blank"><i align="center" class="devicon-youtube-plain colored" height="40" width="60"></i></a>
-<a href="https://www.linkedin.com/in/biglexj/" target="blank"><i align="center" class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
-<a href="https://biglexj.net.pe" target="blank"><i align="center" class="devicon-html5-plain colored" height="40" width="60"></i></a>
+<a href="https://www.linkedin.com/in/biglexj/" target="blank"><img align="center" alt="LinkedIn" height="40" width="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://biglexj.net.pe" target="blank"><img align="center" alt="Website" height="40" width="40" src="https://skillicons.dev/icons?i=webflow" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biglexj&label=Profile%20views&color=0e75b6&style=flat" alt="biglexj" /> </p>
+<p align="left">
+  <a href="https://github.com/biglexj"><img src="https://komarev.com/ghpvc/?username=biglexj&label=Profile%20views&color=0e75b6&style=flat" alt="biglexj" /></a>
+</p>
 
 ---
 
@@ -48,7 +49,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
     biglexj
   </a>
 </p>
-
+  
 ---
 
 <h3 align="left">⚙️ Lenguajes y Herramientas:</h3>
