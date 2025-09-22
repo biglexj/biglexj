@@ -26,7 +26,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 <p align="left">
 <a href="https://www.youtube.com/@biglexj" target="blank"><i align="center" class="devicon-youtube-plain colored" height="40" width="60"></i></a>
 <a href="https://www.linkedin.com/in/biglexj/" target="blank"><i align="center" class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
-<a href="https://biglexj.net.p" target="blank"><i align="center" class="devicon-html5-plain colored" height="40" width="60"></i></a>
+<a href="https://biglexj.net.pe" target="blank"><i align="center" class="devicon-html5-plain colored" height="40" width="60"></i></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biglexj&label=Profile%20views&color=0e75b6&style=flat" alt="biglexj" /> </p>
@@ -44,7 +44,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/biglexj" border="none">
+  <a href="https://github.com/biglexj" style="text-decoration:none;">
     biglexj
   </a>
 </p>
