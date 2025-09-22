@@ -44,7 +44,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/biglexj">
+  <a href="https://github.com/biglexj" border="none">
     biglexj
   </a>
 </p>
