@@ -45,7 +45,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 </div>
 <p align="center">
   <a href="https://github.com/biglexj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=biglexj&&theme=tokyonight" alt="biglexj" />
+    <img src="assets/biglexdev.png" alt="biglexj" />
   </a>
 </p>
 
