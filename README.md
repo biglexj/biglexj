@@ -4,6 +4,10 @@
 
 👋 Hola mundo, soy Biglex J
 
+<p align="left">
+  <a href="https://www.buymeacoffee.com/biglexj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+</p>
+
 Creador de contenido, desarrollador web y explorador del lado creativo de la tecnología.  
 Me encanta transformar ideas en proyectos reales, desde páginas web hasta aplicaciones, pasando por diseños y experimentos con IA.  
 
