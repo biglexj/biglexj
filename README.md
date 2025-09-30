@@ -29,7 +29,7 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 <h3 align="left">🌐 Conecta conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/biglexj/" target="blank"><img align="center" alt="LinkedIn" height="40" width="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://biglexj.net.pe" target="blank"><img align="center" alt="Website" height="40" width="40" src="https://skillicons.dev/icons?i=webflow" /></a>
+<a href="https://biglexj.com" target="blank"><img align="center" alt="Website" height="40" width="40" src="assets/biglexdev.png" style="border-radius: 16%; background-color: white;"/></a>
 </p>
 
 <p align="left">
