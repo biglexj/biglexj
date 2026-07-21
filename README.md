@@ -67,15 +67,10 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 
 <div align="center">
   <a href="https://github.com/biglexj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=biglexj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="biglexj"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biglexj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="biglexj"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=biglexj&theme=tokyonight&hide_border=true" alt="Biglex GitHub Streak"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biglexj&theme=tokyonight" alt="Biglex GitHub Stats"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/biglexj" style="text-decoration:none;">
-    biglexj
-  </a>
-</p>
   
 ---
 
