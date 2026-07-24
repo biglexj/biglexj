@@ -20,7 +20,6 @@ Mi visión es **crear tecnología accesible, estética y con personalidad**.
 
 | Proyecto | Descripción | Stack Tecnológico |
 | :--- | :--- | :--- |
-| 🌌 **[Aurora Blog](https://github.com/biglexj/Aurora-Blog-Public)** | Sitio web oficial con ElyVerso (WebGL 3D), Ely Intelligence (IA) y hub multimedia. | Astro 5, React 19, Tailwind 4, ASP.NET Core |
 | 🎨 **[Lienzo Gallery](https://github.com/biglexj/Lienzo--Gallery)** | Galería nativa multimedia y reproductor de música con interfaz fluida y moderna. | Kotlin, Jetpack Compose, Material 3, Android |
 | 🌙 **[Luna Fetch](https://github.com/biglexj/Luna---Fetch)** | Descargador multiplataforma de audio y video impulsado por yt-dlp y FFmpeg. | Kotlin & Compose Multiplatform (Win/Linux/Android) |
 | 🎙️ **[LyraFlow](https://github.com/biglexj/LyraFlow)** | Dictado por voz inteligente con atajo global e integración de Gemini API / Whisper local. | Kotlin & Compose Multiplatform, Gemini, Whisper |
